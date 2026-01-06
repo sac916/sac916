@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Greg%20Mitchell&fontSize=80&fontAlignY=35&animation=twinkling&desc=AI%20%7C%20Automation%20%7C%20Knowledge%20Systems&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Sargasso&fontSize=80&fontAlignY=35&animation=twinkling&desc=AI%20%7C%20Automation%20%7C%20Knowledge%20Systems&descAlignY=55&descSize=20)
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ```rust
 struct Developer {
-    name: "Greg Mitchell",
+    name: "Sargasso",
     company: "Sargasso",
     role: "Founder & Principal Consultant",
     focus: vec![
@@ -137,7 +137,9 @@ struct Developer {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/sac916/sac916/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/sac916/sac916/blob/output/github-contribution-grid-snake-dark.svg)
+
+<!-- Snake animation will appear after first workflow run -->
 
 </div>
 
