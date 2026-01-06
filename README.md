@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Autonomous+AI+Systems+%F0%9F%A4%96;High-Compliance+Automation+%F0%9F%94%92;Knowledge+Graph+Architecture+%F0%9F%95%B8%EF%B8%8F)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-greg%40sargasso.com-blue?style=for-the-badge&logo=gmail)](mailto:greg@sargasso.com)
+[![Email](https://img.shields.io/badge/Email-greg%40sargassoai.com-blue?style=for-the-badge&logo=gmail)](mailto:greg@sargassoai.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Location](https://img.shields.io/badge/Location-San%20Francisco%2C%20CA-green?style=for-the-badge&logo=google-maps)](https://maps.google.com)
+[![Location](https://img.shields.io/badge/Location-Beaufort%2C%20SC-green?style=for-the-badge&logo=google-maps)](https://maps.google.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sac916&color=58a6ff&style=for-the-badge)
 
@@ -173,7 +173,7 @@ recent_work = {
 **Need autonomous workflows with security-first architecture?**
 **Interested in knowledge graph research systems?**
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-greg%40sargasso.com-blue?style=for-the-badge&logo=gmail)](mailto:greg@sargasso.com)
+[![Email Me](https://img.shields.io/badge/Email%20Me-greg%40sargassoai.com-blue?style=for-the-badge&logo=gmail)](mailto:greg@sargassoai.com)
 
 ---
 
