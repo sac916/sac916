@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Sargasso&fontSize=80&fontAlignY=35&animation=twinkling&desc=AI%20%7C%20Automation%20%7C%20Knowledge%20Systems&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Sargasso&fontSize=80&fontAlignY=35&animation=twinkling&desc=AI%20Technology%20Consulting&descAlignY=55&descSize=20)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Autonomous+AI+Systems+%F0%9F%A4%96;High-Compliance+Automation+%F0%9F%94%92;Knowledge+Graph+Architecture+%F0%9F%95%B8%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Navigating+the+depths+of+AI+to+deliver+strategic+solutions+%F0%9F%8C%8A;Strategy+%E2%80%A2+Engineering+%E2%80%A2+Integration+%E2%80%A2+Research+%F0%9F%94%AC;Finding+what+others+haven't+thought+to+look+for+%F0%9F%94%8D)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-greg%40sargassoai.com-blue?style=for-the-badge&logo=gmail)](mailto:greg@sargassoai.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
@@ -17,16 +17,17 @@
 ## 👋 whoami
 
 ```rust
-struct Developer {
+struct Consultant {
     name: "Sargasso",
-    company: "Sargasso",
-    role: "Founder & Principal Consultant",
-    focus: vec![
-        "AI/Automation for RIA firms & financial services",
-        "High-compliance workflow automation",
-        "Knowledge synthesis & graph intelligence",
+    tagline: "AI Technology Consulting",
+    mission: "Navigating the depths of artificial intelligence to deliver strategic solutions",
+    expertise: vec![
+        "AI Strategy & Transformation Roadmaps",
+        "Custom Engineering & System Architecture",
+        "High-Compliance Integration (SEC, FINRA, HIPAA)",
+        "Knowledge Synthesis & Research Systems",
     ],
-    current_work: "Building autonomous research systems with convergent knowledge architecture",
+    specialization: "Finding transformative opportunities at the edges of what's known",
 }
 ```
 
