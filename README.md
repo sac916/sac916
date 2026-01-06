@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Sargasso&fontSize=80&fontAlignY=35&animation=twinkling&desc=AI%20Technology%20Consulting&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a4d68,50:088395,100:05BFDB&height=280&section=header&text=Sargasso&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Technology%20Consulting&descAlignY=58&descSize=20)
 
 <div align="center">
 
@@ -178,6 +178,6 @@ recent_work = {
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a4d68,50:088395,100:05BFDB&height=120&section=footer)
 
 </div>
