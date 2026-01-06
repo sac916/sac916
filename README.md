@@ -119,16 +119,21 @@ struct Consultant {
 
 <div align="center">
 
-<a href="https://github.com/sac916">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sac916&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=088395&icon_color=05BFDB&text_color=c9d1d9&cache_seconds=86400" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sac916&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0d1117&title_color=088395&text_color=c9d1d9&cache_seconds=86400" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sac916&theme=github_dark)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sac916&theme=dark&hide_border=true&background=0D1117&stroke=088395&ring=05BFDB&fire=05BFDB&currStreakLabel=088395&sideLabels=088395)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sac916&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sac916&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sac916&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sac916&theme=github_dark&utcOffset=-5)
 
 </div>
 
