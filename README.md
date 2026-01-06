@@ -120,15 +120,15 @@ struct Consultant {
 <div align="center">
 
 <a href="https://github.com/sac916">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sac916&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=088395&icon_color=05BFDB&text_color=c9d1d9&ring_color=088395" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sac916&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=088395&text_color=c9d1d9" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sac916&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=088395&icon_color=05BFDB&text_color=c9d1d9&cache_seconds=86400" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sac916&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0d1117&title_color=088395&text_color=c9d1d9&cache_seconds=86400" />
 </a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sac916&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=088395&ring=05BFDB&fire=05BFDB&currStreakLabel=088395)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sac916&theme=dark&hide_border=true&background=0D1117&stroke=088395&ring=05BFDB&fire=05BFDB&currStreakLabel=088395&sideLabels=088395)](https://git.io/streak-stats)
 
 </div>
 
